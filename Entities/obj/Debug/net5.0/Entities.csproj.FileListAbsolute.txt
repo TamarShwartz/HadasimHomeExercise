@@ -1,0 +1,12 @@
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\bin\Debug\net5.0\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\bin\Debug\net5.0\Entities.pdb
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\Entities\obj\Debug\net5.0\Entities.pdb
