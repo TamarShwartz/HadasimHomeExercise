@@ -1,0 +1,15 @@
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.csproj.AssemblyReference.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.AssemblyInfoInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.AssemblyInfo.cs
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.csproj.CoreCompileInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\DL.deps.json
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\DL.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\ref\DL.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\DL.pdb
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\bin\Debug\net5.0\Entities.pdb
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.csproj.CopyComplete
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\ref\DL.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DL\obj\Debug\net5.0\DL.pdb

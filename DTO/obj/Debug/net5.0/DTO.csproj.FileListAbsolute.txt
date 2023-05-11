@@ -1,0 +1,15 @@
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\DTO.deps.json
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\DTO.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\ref\DTO.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\DTO.pdb
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\Entities.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\bin\Debug\net5.0\Entities.pdb
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\ref\DTO.dll
+D:\משתמש\Desktop\הדסים- מטלת בית\Project\DTO\obj\Debug\net5.0\DTO.pdb
